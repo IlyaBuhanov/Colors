@@ -1,3 +1,3 @@
 var colors = require('colors');
  
-console.log('Hello World'.rainbow); // rainbow
+console.log('Hello World'.green); // green
